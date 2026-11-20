@@ -16,8 +16,8 @@ no patcher — two files go next to the game and the menu opens with `TAB` (keyb
 
 ## Download
 
-Grab the latest build from the [Releases](../../releases) page. The download
-(`Native Redux Plugin.rar`) contains the two files you need:
+Download **[`Native Redux Plugin.rar`](Native%20Redux%20Plugin.rar)** — it contains the two files
+you need:
 
 | File | What it is |
 |---|---|
@@ -70,8 +70,6 @@ Everything is organized into tabs. Move rows with Left/Right; a switch flips, a 
   part / Missing Texture.
 - **Profiles** — save and load your whole set of toggles and values.
 - **Credits**
-
-See the [Releases](../../releases) notes for what's new in each build and the full list of rows.
 
 ---
 
