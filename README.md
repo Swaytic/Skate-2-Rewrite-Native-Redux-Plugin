@@ -4,7 +4,7 @@ A full in-game cheat & tweak menu for the Skate 2 (PC rewrite), An drop-in plugi
 
 The plugin never touches the official skate2-pc.exe
 
-| | |
+
 |---|---|
 | For game version | Official Skate 2 (PC rewrite) |
 | Open the menu | TAB (keyboard) · D-pad Left + R3 (controller) |
