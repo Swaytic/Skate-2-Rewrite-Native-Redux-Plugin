@@ -113,7 +113,7 @@ The official skate2-pc.exe is not patched on disk or in memory (apart from one j
 
 ## License
 
-- Ultimate ASI Loader (version.dll): https://github.com/ThirteenAG/Ultimate-ASI-Loader/https://github.com/ThirteenAG/Ultimate-ASI-Loader/blob/master/license
+- Ultimate ASI Loader (version.dll): https://github.com/ThirteenAG/Ultimate-ASI-Loader/blob/master/license
 - GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.html
 
 ---
