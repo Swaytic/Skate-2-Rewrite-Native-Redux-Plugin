@@ -5,8 +5,9 @@ A full in-game cheat & tweak menu for the Skate 2 (PC rewrite), An drop-in plugi
 The plugin never touches the official skate2-pc.exe
 
 
-|---|---|
+
 | For game version | Official Skate 2 (PC rewrite) |
+|---|---|
 | Open the menu | TAB (keyboard) · D-pad Left + R3 (controller) |
 | Install | Drop 2 files next to skate2-pc.exe |
 | Online | Works — to the server and other players it behaves like the normal game |
