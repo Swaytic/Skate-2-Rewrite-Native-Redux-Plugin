@@ -28,9 +28,8 @@ you need:
 <summary><b>This release — checksums</b></summary>
 
 ```
-NativeReduxPlugin.asi   SHA-256  f84f9cbcac61800daf616282591a7c7c5d68a25d5171d40d273be629d1e7fba7
-version.dll             SHA-256  57ec56390c92a18b82f58855e63c93985e254d1e29d5f75cbc28dc08f96c8a12
-built for skate2-pc.exe SHA-256  89783fd923df6c9a24316bbc4e9119c98c203721045ca9126b652ad43e6bd870  (official v0.3.5)
+NativeReduxPlugin.asi
+version.dll
 ```
 </details>
 
