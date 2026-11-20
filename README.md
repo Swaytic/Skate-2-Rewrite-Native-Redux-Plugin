@@ -1,6 +1,6 @@
 # Native Redux Plugin
 
-A full in-game cheat & tweak menu for the Skate 2 (PC rewrite), An drop-in plugin. No launcher, no patcher — two files go next to the game and the menu opens with TAB.
+A full in-game cheat & tweak menu for the Skate 2 (PC rewrite), An drop-in plugin. No launcher, no patcher — two files go next to the game.
 
 The plugin never touches the official skate2-pc.exe
 
